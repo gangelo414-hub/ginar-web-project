@@ -1,24 +1,24 @@
 [
   {
-    "title": "Project Name",
-    "category": "Landing Page",
-    "year": "2025",
-    "desc": "Short description about what this website does and the problem it solves for the client.",
-    "stack": ["HTML", "CSS", "JS"],
-    "thumb": "https://raw.githubusercontent.com/GITHUB_USERNAME/REPO_NAME/main/thumbs/project1.webp",
-    "thumbBg": "#2a2a2a",
-    "thumbLabel": "PROJECT",
-    "url": "https://live-site-url.com"
-  },
-  {
-    "title": "Client Website",
+    "title": "SMAN 1 Terisi",
     "category": "Company Profile",
     "year": "2025",
-    "desc": "Company profile website built to showcase services and increase credibility for local business.",
-    "stack": ["HTML", "CSS", "GSAP"],
-    "thumb": "https://raw.githubusercontent.com/GITHUB_USERNAME/REPO_NAME/main/thumbs/project2.webp",
+    "desc": "Official school website for SMAN 1 Terisi, Indramayu. Features school profile, vision & mission, achievements, and latest news.",
+    "stack": ["HTML", "CSS", "JS"],
+    "thumb": null,
+    "thumbBg": "#1a2a3a",
+    "thumbLabel": "SMAN1",
+    "url": "https://webginar.netlify.app/sman1terisi"
+  },
+  {
+    "title": "Heartopia",
+    "category": "Portfolio",
+    "year": "2025",
+    "desc": "A personal fish & hobby compendium app. Track catches, sync across devices, and explore creature collections.",
+    "stack": ["HTML", "CSS", "JS"],
+    "thumb": null,
     "thumbBg": "#1a3a2a",
-    "thumbLabel": "CLIENT",
-    "url": "https://live-site-url.com"
+    "thumbLabel": "HEART",
+    "url": "https://mochginar.netlify.app/heartopia.html"
   }
 ]
