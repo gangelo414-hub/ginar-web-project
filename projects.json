@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Project Name",
+    "category": "Landing Page",
+    "year": "2025",
+    "desc": "Short description about what this website does and the problem it solves for the client.",
+    "stack": ["HTML", "CSS", "JS"],
+    "thumb": "https://raw.githubusercontent.com/GITHUB_USERNAME/REPO_NAME/main/thumbs/project1.webp",
+    "thumbBg": "#2a2a2a",
+    "thumbLabel": "PROJECT",
+    "url": "https://live-site-url.com"
+  },
+  {
+    "title": "Client Website",
+    "category": "Company Profile",
+    "year": "2025",
+    "desc": "Company profile website built to showcase services and increase credibility for local business.",
+    "stack": ["HTML", "CSS", "GSAP"],
+    "thumb": "https://raw.githubusercontent.com/GITHUB_USERNAME/REPO_NAME/main/thumbs/project2.webp",
+    "thumbBg": "#1a3a2a",
+    "thumbLabel": "CLIENT",
+    "url": "https://live-site-url.com"
+  }
+]
