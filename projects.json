@@ -16,7 +16,7 @@
     "year": "2025",
     "desc": "A personal fish & hobby compendium app. Track catches, sync across devices, and explore creature collections.",
     "stack": ["HTML", "CSS", "JS"],
-    "thumb": "thumb": "https://raw.githubusercontent.com/gangelo414-hub/ginar-web-project/main/thumbs/hearopia-fullpage.webp",
+    "thumb": "https://raw.githubusercontent.com/gangelo414-hub/ginar-web-project/main/thumbs/hearopia-fullpage.webp",
     "thumbBg": "#1a3a2a",
     "thumbLabel": "HEART",
     "url": "https://webginar.netlify.app/heartopia.html"
